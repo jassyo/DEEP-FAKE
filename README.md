@@ -1,3 +1,3 @@
 # DEEP-FAKE
-#dataset: 
+# dataset: 
 https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
